@@ -7,7 +7,7 @@
 
 ![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariproftech&show_icons=true&theme=onedark)
 
-## Hard Skills
+## Skills
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -22,7 +22,7 @@
 
 Sou Licencianda em Computação pela Universidade Federal Rural de Pernambuco UFRPE. Atualmente estagiária na área de educação, ministro aula de robótica para alunos do ensino básico da rede pública. Estou constantemente me aperfeiçoando as tecnologias citadas acima.
 
-I have a degree in Computing from the Federal Rural University of Pernambuco UFRPE. Currently an intern in the education field, I teach robotics classes to public elementary school students. I am constantly improving the technologies mentioned above.
+Estundent a degree in Computing from the Federal Rural University of Pernambuco UFRPE. Currently an intern in the education field, I teach robotics classes to public elementary school students. I am constantly improving the technologies mentioned above.
 
 ## Contact Email 
 
