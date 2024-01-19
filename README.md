@@ -1,8 +1,9 @@
 
-### Hello! I am  Maria Souza 😊🛸
+### Hello! Welcome to my GitHub. 😊🛸
 
-[![Currículo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maria-souza-13438544)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maria-souza-13438544)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mariproftech?utm_source=qr&igsh=MTNmdzJwczVnajJlaQ==)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zurmA4G6)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MariaCorreia-wc2ni)
 
 ![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariproftech&show_icons=true&theme=onedark)
@@ -20,10 +21,20 @@
 </div><br/>
 
 
-Sou Licencianda em Computação pela Universidade Federal Rural de Pernambuco UFRPE. Atualmente estagiária na área de educação, ministro aula de robótica para alunos do ensino básico da rede pública. Estou constantemente me aperfeiçoando as tecnologias citadas acima.
+Sou Licencianda em Computação pela Universidade Federal Rural de Pernambuco UFRPE. Atualmente estagiária na área de educação, ministro aula de robótica para alunos do ensino básico da rede pública. Estou constantemente me aperfeiçoando nas tecnologias citadas acima.
 
-Estundent a degree in Computing from the Federal Rural University of Pernambuco UFRPE. Currently an intern in the education field, I teach robotics classes to public elementary school students. I am constantly improving the technologies mentioned above.
+I have a degree in Computing from the Federal Rural University of Pernambuco UFRPE. Currently an intern in the education field, I teach robotics classes to public elementary school students. I am constantly improving the technologies mentioned above.
 
 ## Contact Email 
 
 mariacorreia2505@gmail.com
+
+
+
+
+
+
+
+
+
+
